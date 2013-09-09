@@ -1,4 +1,7 @@
 OpenSource
 ==========
 
-Open Source Software from your friends at ShareThis
+Open Source Software 
+
+
+TODO: Some better write up
