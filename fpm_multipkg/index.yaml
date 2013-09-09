@@ -1,0 +1,16 @@
+name: fpm_multipkg
+version: 0.12
+depends:
+  - perl
+  - perl-YAML-Syck
+  - perl-DateTime-Format-Strptime
+  - perl-DateTime
+url: https://github.com/jordansissel/fpm
+maintainer: "Vigith Maurice"
+description: "A Wrapper around fpm, to formulate the options"
+architecture: noarch
+s: dir
+t: rpm
+_build: 
+  - usr
+
